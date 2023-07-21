@@ -4,7 +4,7 @@ import Footer from "./components/Footer/Footer";
 import Home from "./pages/Home/Home";
 import Forecast from "./pages/Forecast/Forecast";
 import Realtime from "./pages/Realtime/Realtime";
-import linkPage from "./utils/linkPage";
+import linkPage from "./utils/LinkPage";
 
 Header();
 Footer();
